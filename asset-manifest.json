@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/caechez/react-website/static/css/main.aac7c725.css",
+    "main.js": "/caechez/react-website/static/js/main.51a39c4c.js",
+    "static/js/453.d413b5db.chunk.js": "/caechez/react-website/static/js/453.d413b5db.chunk.js",
+    "static/media/bg2.png": "/caechez/react-website/static/media/bg2.93b3405f8b216d9ad148.png",
+    "static/media/EB Garamond.ttf": "/caechez/react-website/static/media/EB Garamond.0ce1bc547dbafd94fd25.ttf",
+    "static/media/logo.png": "/caechez/react-website/static/media/logo.5b0f0de951f9afed3c75.png",
+    "static/media/IBMPlexMono-Regular.ttf": "/caechez/react-website/static/media/IBMPlexMono-Regular.ad81fa76f2575c4d48d6.ttf",
+    "static/media/portrait.png": "/caechez/react-website/static/media/portrait.05c3191991e788674504.png",
+    "static/media/bg.svg": "/caechez/react-website/static/media/bg.6e631088b02f374cdc992c99afcf5d7d.svg",
+    "index.html": "/caechez/react-website/index.html",
+    "main.aac7c725.css.map": "/caechez/react-website/static/css/main.aac7c725.css.map",
+    "main.51a39c4c.js.map": "/caechez/react-website/static/js/main.51a39c4c.js.map",
+    "453.d413b5db.chunk.js.map": "/caechez/react-website/static/js/453.d413b5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac7c725.css",
+    "static/js/main.51a39c4c.js"
+  ]
+}
